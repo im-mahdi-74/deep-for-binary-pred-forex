@@ -24,10 +24,5 @@ This repository implements a time series forecasting model to predict the direct
 *   Financial forecasting
 *   Market analysis
 
-**Feel free to customize this further by:**
-
-*   Adding details about the specific datasets you used.
-*   Mentioning any libraries or frameworks that are heavily used (e.g., TensorFlow, PyTorch, scikit-learn).
-*   Including information about how to run the code or contribute to the project.
 
 
