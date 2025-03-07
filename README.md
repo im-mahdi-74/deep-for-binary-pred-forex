@@ -30,4 +30,4 @@ This repository implements a time series forecasting model to predict the direct
 *   Mentioning any libraries or frameworks that are heavily used (e.g., TensorFlow, PyTorch, scikit-learn).
 *   Including information about how to run the code or contribute to the project.
 
-Let me know if you'd like any refinements or alternative versions of this description!
+
